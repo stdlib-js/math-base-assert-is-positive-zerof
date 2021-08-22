@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-positive-zerof",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Test if a single-precision floating-point numeric value is positive zero.",
   "license": "Apache-2.0",
   "author": {
@@ -14,7 +14,7 @@
     }
   ],
   "main": "./lib",
-  "gypfile": true,
+  "gypfile": false,
   "directories": {
     "benchmark": "./benchmark",
     "doc": "./docs",
