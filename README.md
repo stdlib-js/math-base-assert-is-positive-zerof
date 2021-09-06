@@ -87,6 +87,23 @@ bool = isPositiveZerof( NaN );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/assert/is-negative-zerof`][@stdlib/math/base/assert/is-negative-zerof]: test if a single-precision floating-point numeric value is negative zero.
+-   [`@stdlib/math/base/assert/is-positive-zero`][@stdlib/math/base/assert/is-positive-zero]: test if a double-precision floating-point numeric value is positive zero.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -103,11 +120,6 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
-
-## License
-
-See [LICENSE][stdlib-license].
-
 
 ## Copyright
 
@@ -140,7 +152,13 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-assert-is-positive-zerof/main/LICENSE
+<!-- <related-links> -->
+
+[@stdlib/math/base/assert/is-negative-zerof]: https://github.com/stdlib-js/math-base-assert-is-negative-zerof
+
+[@stdlib/math/base/assert/is-positive-zero]: https://github.com/stdlib-js/math-base-assert-is-positive-zero
+
+<!-- </related-links> -->
 
 </section>
 
