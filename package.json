@@ -1,0 +1,44 @@
+{
+  "name": "@stdlib/math-base-assert-is-positive-zerof",
+  "version": "0.0.0",
+  "description": "Test if a single-precision floating-point numeric value is positive zero.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-assert-is-positive-zerof.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "math",
+    "mathematics",
+    "ieee754",
+    "floating-point",
+    "float",
+    "float32",
+    "number",
+    "numeric",
+    "positive",
+    "zero",
+    "0",
+    "is",
+    "type",
+    "check"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
