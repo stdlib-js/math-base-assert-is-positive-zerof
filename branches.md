@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-positive-zerof"
-click B href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/main"
-click C href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/production"
-click D href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/esm"
-click E href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/deno"
-click F href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-positive-zerof"
+%% click B href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/main"
+%% click C href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/production"
+%% click D href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/esm"
+%% click E href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/deno"
+%% click F href "https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-positive-zerof
