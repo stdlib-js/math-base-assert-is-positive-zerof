@@ -41,14 +41,14 @@
   },
   "dependencies": {
     "@stdlib/constants-float32-pinf": "^0.1.0",
-    "@stdlib/utils-library-manifest": "^0.1.0"
+    "@stdlib/utils-library-manifest": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.1.0",
+    "@stdlib/assert-is-boolean": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/boolean-ctor": "^0.1.0",
+    "@stdlib/boolean-ctor": "^0.1.1",
     "@stdlib/random-base-randu": "^0.1.0",
-    "@stdlib/utils-try-require": "^0.1.0",
+    "@stdlib/utils-try-require": "^0.1.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
