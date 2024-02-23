@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isPositiveZerof from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-positive-zerof@deno/mod.js';
+import isPositiveZerof from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-positive-zerof@v0.1.2-deno/mod.js';
 ```
 
 #### isPositiveZerof( x )
@@ -68,7 +68,7 @@ bool = isPositiveZerof( -0.0 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isPositiveZerof from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-positive-zerof@deno/mod.js';
+import isPositiveZerof from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-positive-zerof@v0.1.2-deno/mod.js';
 
 var bool = isPositiveZerof( 0.0 );
 // returns true
