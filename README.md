@@ -142,11 +142,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
@@ -162,8 +157,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-assert-is-positive-zerof.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-assert-is-positive-zerof
 
-[test-image]: https://github.com/stdlib-js/math-base-assert-is-positive-zerof/actions/workflows/test.yml/badge.svg?branch=v0.1.3
-[test-url]: https://github.com/stdlib-js/math-base-assert-is-positive-zerof/actions/workflows/test.yml?query=branch:v0.1.3
+[test-image]: https://github.com/stdlib-js/math-base-assert-is-positive-zerof/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/math-base-assert-is-positive-zerof/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-assert-is-positive-zerof/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-assert-is-positive-zerof?branch=main
@@ -192,8 +187,6 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/math-base-assert-is-positive-zerof/tree/esm
 [esm-readme]: https://github.com/stdlib-js/math-base-assert-is-positive-zerof/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/math-base-assert-is-positive-zerof/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-assert-is-positive-zerof/main/LICENSE
 
 <!-- <related-links> -->
 
